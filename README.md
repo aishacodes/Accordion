@@ -1,15 +1,14 @@
 # Accordion
-# ALPHABETIFY-V2
+
 **An implementation of collapsible accordion with HTML/CSS/JQUERY**
 
 ## Getting Started
 Clone or download this repository and run with a local server of open index.html with your favorite browser
  
-[demo]()https://jqueryaccordion.netlify.app/
 
 ## Preview
+[demo]()https://jqueryaccordion.netlify.app/
 
-![Screenshot](media/Screenshot.png)
 ## Prequisite
 Your browser version must be recent for a better experience
 ## Built with
