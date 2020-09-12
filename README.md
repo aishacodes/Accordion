@@ -1,1 +1,24 @@
 # Accordion
+# ALPHABETIFY-V2
+**An implementation of collapsible accordion with HTML/CSS/JQUERY**
+
+## Getting Started
+Clone or download this repository and run with a local server of open index.html with your favorite browser
+ 
+[demo]()https://jqueryaccordion.netlify.app/
+
+## Preview
+
+![Screenshot](media/Screenshot.png)
+## Prequisite
+Your browser version must be recent for a better experience
+## Built with
+- HTML
+- CSS
+- Jquery
+## Author
+Abdulfatah Aishat aishatabdulfatah81@gmail.com 
+## Addtional Info
+This is one of the series of exercises for the @Codevillage-llc.
+This is not meant for production. It's for learning purpose only
+
